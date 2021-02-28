@@ -1,0 +1,37 @@
+#welcome{
+  text-align: center;
+  background-image: linear-gradient(#3e8bec, #4fbf8d);
+}
+h1{
+  text-shadow: 2px 2px red;
+  font-size: 20px;
+}
+h2{
+   text-shadow: -1px 0 green, 0 1px green, 1px 0 green, 0 -1px green;
+}
+p{
+  color: purple;
+}
+h3{
+  text-shadow: 2px 2px 5px blue;
+  font-family: 'Dancing Script', cursive;
+}
+h4{
+  text-shadow: 2px 2px 4px #000000;
+}
+#information{
+  text-align: center;
+  background-image: linear-gradient(pink, lightblue);
+}
+ul{
+    display: inline;
+}
+#menu{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
